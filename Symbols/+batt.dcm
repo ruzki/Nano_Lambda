@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +BATT
+D power-flag symbol (positive battery voltage)
+K Power Flag Symbol battery
+$ENDCMP
+#
+#End Doc Library

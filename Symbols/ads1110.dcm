@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1110
+D 16 Bit Analog to Digital converter with on board reference
+K 16 Bit Analog to digital converter ADC
+F http://www.ti.com/lit/ds/symlink/ads1110.pdf
+$ENDCMP
+#
+#End Doc Library

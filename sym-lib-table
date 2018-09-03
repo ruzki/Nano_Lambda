@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Nano_Lambda)(type Legacy)(uri /Users/administrator/Documents/kicad/Projekte/Nano_Lambda/Nano_Lambda.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/arduino-kicad-library-master/arduino.lib)(options "")(descr ""))
+)

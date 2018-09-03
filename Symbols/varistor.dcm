@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Varistor
+D Voltage dependent resistor
+K vdr resistance
+$ENDCMP
+#
+#End Doc Library

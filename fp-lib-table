@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri ${KIPRJMOD}/arduino-kicad-library-master/Arduino.pretty)(options "")(descr ""))
+  (lib (name "Nano Lambda")(type KiCad)(uri "${KIPRJMOD}/Nano Lambda.pretty")(options "")(descr ""))
+)

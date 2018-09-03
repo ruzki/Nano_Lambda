@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_Small
+D LED, small symbol
+K led diode light-emitting-diode
+$ENDCMP
+#
+#End Doc Library

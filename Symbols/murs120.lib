@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MURS120
+#
+DEF MURS120 ~ 0 40 Y Y 1 L N
+F0 "" 100 19 59 H V L BNN
+F1 "MURS120" 100 -91 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 1 0 0 -50 -50 50 0 N
+P 2 1 0 0 -50 50 -50 -50 N
+P 2 1 0 0 50 0 -50 50 N
+P 2 1 0 0 50 0 50 -50 N
+P 2 1 0 0 50 50 50 0 N
+X A 1 -100 0 100 R 0 0 1 0 P
+X C 2 100 0 100 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

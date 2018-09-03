@@ -1,0 +1,65 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +BATT
+D power-flag symbol (positive battery voltage)
+K Power Flag Symbol battery
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP Conn_01x01
+D Generic connector, single row, 01x01
+K connector
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+$ENDCMP
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP GND
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP LED_Small
+D LED, small symbol
+K led diode light-emitting-diode
+$ENDCMP
+#
+$CMP MCP4725
+D 16 Bit Analog to Digital converter with on board reference
+K 16 Bit Analog to digital converter ADC
+F http://www.ti.com/lit/ds/symlink/ads1110.pdf
+$ENDCMP
+#
+$CMP PWR_FLAG
+D general power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+#End Doc Library
