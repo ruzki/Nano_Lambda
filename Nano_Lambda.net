@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/administrator/Documents/kicad/Projekte/Nano_Lambda/Nano_Lambda.sch)
-    (date "Monday, 03 September 2018 at 19:00:52")
+    (date "Tuesday, 11 September 2018 at 11:12:05")
     (tool "Eeschema (5.0.0-3-g5ebb6b6)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref U1)
       (value CJ125_32)
-      (footprint Housings_QFP:LQFP-32_5x5mm_Pitch0.5mm)
+      (footprint Housings_QFP:LQFP-32_7x7mm_Pitch0.8mm)
       (libsource (lib Nano_Lambda) (part CJ125_32) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5B82B1B5))

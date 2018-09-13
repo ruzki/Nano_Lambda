@@ -2583,4 +2583,6 @@ Text Label 3700 5150 2    50   ~ 0
 +12V_NL
 Wire Wire Line
 	10700 3550 10950 3550
+Text Label 2900 950  2    50   ~ 0
+UN
 $EndSCHEMATC
