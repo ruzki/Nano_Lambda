@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/administrator/Documents/kicad/Projekte/Nano_Lambda/Nano_Lambda.sch)
-    (date "Tuesday, 11 September 2018 at 11:12:05")
+    (date "Saturday, 29 September 2018 at 02:20:18")
     (tool "Eeschema (5.0.0-3-g5ebb6b6)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -590,8 +590,8 @@
       (fields
         (field (name Value) MURS120))
       (pins
-        (pin (num 1) (name A) (type passive))
-        (pin (num 2) (name C) (type passive))))
+        (pin (num 1) (name C) (type passive))
+        (pin (num 2) (name A) (type passive))))
     (libpart (lib Nano_Lambda) (part R)
       (description Resistor)
       (footprints
@@ -699,8 +699,8 @@
       (node (ref C8) (pin 2))
       (node (ref R10) (pin 1)))
     (net (code 14) (name /+12V_NL)
-      (node (ref U4) (pin 2))
       (node (ref C17) (pin 2))
+      (node (ref U4) (pin 1))
       (node (ref C18) (pin 2))
       (node (ref C19) (pin 2))
       (node (ref C20) (pin 2))
@@ -759,7 +759,7 @@
       (node (ref R19) (pin 1))
       (node (ref J6) (pin 1))
       (node (ref U5) (pin D))
-      (node (ref U4) (pin 1)))
+      (node (ref U4) (pin 2)))
     (net (code 29) (name GND)
       (node (ref R2) (pin 1))
       (node (ref R5) (pin 1))
